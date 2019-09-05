@@ -1,0 +1,83 @@
+@media (max-width: 1200px) {
+  .body_wrapper .skills_section .skills_main_wrapper {
+    width: 100%;
+  }
+  .body_wrapper .route_section .route_list_wrapper .route_wrapper {
+    width: 100%;
+  }
+}
+@media (max-width: 970px) {
+  .body_wrapper .about_section .about_wrapper {
+    width: 100% !important;
+  }
+  .body_wrapper .route_section .route_title_wrapper {
+    max-width: 90% !important;
+    margin: 0 5% !important;
+  }
+}
+
+
+@media (max-width: 640px) {
+  h1 {
+    font-size: 35px;
+    line-height: 45px;
+  }
+}
+
+@media (max-width: 480px) {
+  .body_wrapper .hero_section .logo_wraper {
+    width: 55px;
+    height: 55px;
+  }
+
+  .body_wrapper .hero_section .hero_slogan_wrapper .hero_subtitle {
+    font-size: 1rem;
+  }
+
+  .body_wrapper .hero_section .hero_slogan_wrapper .hero_title {
+    padding-top: 5px;
+  }
+
+  .body_wrapper .hero_section .hero_slogan_wrapper .hero_slogan_wrapper_link .hero_links_wrapper {
+    margin-right: 20px;
+    padding: 10px;
+
+  }
+
+  .body_wrapper .about_section .about_wrapper {
+    padding: 77px 27px;
+
+  }
+
+  .body_wrapper .skills_section .skills_main_wrapper {
+    padding: 77px 27px;
+  }
+
+  .body_wrapper .route_section .route_list_wrapper .route_wrapper {
+    padding: 0px 27px;
+  }
+
+  .body_wrapper .route_section .route_list_wrapper .route_wrapper::before {
+    left: 49px; 
+  }
+
+  .body_wrapper .counter_section .counter_wrapper .counter_item {
+    margin: 28px;
+  }
+}
+
+@media (max-width: 360px) {
+  .body_wrapper .hero_section .hero_slogan_wrapper {
+    padding-top: 30%;
+  }
+
+  .body_wrapper .counter_section .counter_wrapper .counter_item {
+    margin: 53px;
+  }
+
+  .body_wrapper .route_section .route_list_wrapper .route_wrapper .route_list .route_list_item {
+    padding-left: 63px;
+    position: relative;
+    margin-bottom: 60px;
+  }
+}
