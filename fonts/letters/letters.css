@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-LightItalic.woff2') format('woff2'),
+        url('Roboto-LightItalic.woff') format('woff'),
+        url('Roboto-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-SemiBoldItalic.woff2') format('woff2'),
+        url('LibreFranklin-SemiBoldItalic.woff') format('woff'),
+        url('LibreFranklin-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-ExtraLight.woff2') format('woff2'),
+        url('LibreFranklin-ExtraLight.woff') format('woff'),
+        url('LibreFranklin-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-MediumItalic.woff2') format('woff2'),
+        url('LibreFranklin-MediumItalic.woff') format('woff'),
+        url('LibreFranklin-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-Black.woff2') format('woff2'),
+        url('LibreFranklin-Black.woff') format('woff'),
+        url('LibreFranklin-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Bold.woff2') format('woff2'),
+        url('Roboto-Bold.woff') format('woff'),
+        url('Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-Light.woff2') format('woff2'),
+        url('LibreFranklin-Light.woff') format('woff'),
+        url('LibreFranklin-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Thin.woff2') format('woff2'),
+        url('Roboto-Thin.woff') format('woff'),
+        url('Roboto-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Medium.woff2') format('woff2'),
+        url('Roboto-Medium.woff') format('woff'),
+        url('Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-Bold.woff2') format('woff2'),
+        url('LibreFranklin-Bold.woff') format('woff'),
+        url('LibreFranklin-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Light.woff2') format('woff2'),
+        url('Roboto-Light.woff') format('woff'),
+        url('Roboto-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-BoldItalic.woff2') format('woff2'),
+        url('Roboto-BoldItalic.woff') format('woff'),
+        url('Roboto-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-Regular.woff2') format('woff2'),
+        url('LibreFranklin-Regular.woff') format('woff'),
+        url('LibreFranklin-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-ExtraLightItalic.woff2') format('woff2'),
+        url('LibreFranklin-ExtraLightItalic.woff') format('woff'),
+        url('LibreFranklin-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-Thin.woff2') format('woff2'),
+        url('LibreFranklin-Thin.woff') format('woff'),
+        url('LibreFranklin-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Black.woff2') format('woff2'),
+        url('Roboto-Black.woff') format('woff'),
+        url('Roboto-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-Medium.woff2') format('woff2'),
+        url('LibreFranklin-Medium.woff') format('woff'),
+        url('LibreFranklin-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-ExtraBold.woff2') format('woff2'),
+        url('LibreFranklin-ExtraBold.woff') format('woff'),
+        url('LibreFranklin-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Regular.woff2') format('woff2'),
+        url('Roboto-Regular.woff') format('woff'),
+        url('Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('LibreFranklin-SemiBold.woff2') format('woff2'),
+        url('LibreFranklin-SemiBold.woff') format('woff'),
+        url('LibreFranklin-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
