@@ -157,7 +157,6 @@ p {
   width: 100%;
   color: rgba(255, 255, 255, 0.95);
   padding: 10px;
-  border-bottom: 1px solid #dbd1d1;
 }
 .body_wrapper .header .nav_wrapper .nav_wrapper_menu .nav_item_link:hover {
   -webkit-transition: all 0.65s ease-out;
