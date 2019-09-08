@@ -181,7 +181,7 @@ p {
   margin: 5px;
 }
 .body_wrapper .hero_section {
-  background: url('../img/bg/hero_bg.JPG');
+  background: url('../img/bg/hero_bg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -545,6 +545,9 @@ p {
 .body_wrapper .route_section .route_list_wrapper .route_wrapper .route_list .route_list_item .route_list_item_description {
   max-width: 80%;
   margin-top: 10px;
+}
+.body_wrapper .route_section .route_list_wrapper .route_wrapper .route_list .route_list_item video {
+  max-width: 100%;
 }
 .body_wrapper .route_section .route_list_wrapper .route_wrapper .route_list .route_list_item a {
   color: black;
