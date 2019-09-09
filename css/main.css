@@ -586,7 +586,7 @@ p {
   grid-column: span 1;
 }
 .body_wrapper .work_section .main_content .portefolio .portefolio_item.four {
-  background-image: url("../img/bg/IMG_four.JPG");
+  background-image: url("../img/bg/IMG_four.jpg");
   color: lightgray;
   background-size: cover;
   background-position: top center;
@@ -640,7 +640,7 @@ p {
   opacity: 0.2;
 }
 .body_wrapper .work_section .main_content .portefolio .portefolio_item.three {
-  background-image: url("../img/bg/IMG_three.JPG");
+  background-image: url("../img/bg/IMG_three.jpg");
   color: lightgray;
   background-size: cover;
   background-position: top center;
@@ -669,7 +669,7 @@ p {
   grid-column: span 3;
 }
 .body_wrapper .work_section .main_content .portefolio .portefolio_item.tow {
-  background-image: url("../img/bg/IMG_tow.JPG");
+  background-image: url("../img/bg/IMG_tow.jpg");
   color: lightgray;
   background-size: cover;
   background-position: top center;
